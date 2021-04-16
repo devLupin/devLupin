@@ -17,8 +17,8 @@
 - Master's course Students, [<i>Smart Computing Laboratory</i>](http://sclab.jnu.ac.kr/), Chonnam National Univ.
   - 운동자세교정을 위한 제스처 인식, 기업체 현업 프로젝트, Mar-May 2021.
 
+<!--
 ### 📚 International Conference
-
 - 
 
 ### 📚 Domestic Conference
@@ -28,4 +28,5 @@
 - 
 
 ### ✨ HONORS & AWARDS
-- 
+
+-->
