@@ -1,5 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdevLupin&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%233FCFD3&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+![Hyuntaek Lim's github stats](https://github-readme-stats.vercel.app/api?username=devLupin&show_icons=true&theme=tokyonight)
+
 ### Hi  👋 I'm Hyuntaek Lim
 
 - 🌱 I’m currently learning Artificial Inteligence at [Chonnam National University(Gwangju)](https://www.jnu.ac.kr/).
@@ -37,5 +39,3 @@
 ### ✨ HONORS & AWARDS
 
 -->
-
-![Hyuntaek Lim's github stats](https://github-readme-stats.vercel.app/api?username=devLupin&show_icons=true&theme=tokyonight)
