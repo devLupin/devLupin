@@ -7,26 +7,35 @@
 - 📫 How to reach me : [BLOG](https://devhyeon.tistory.com/), E-mail : luckyquit49@gmail.com
 
 ### 🏛 Education
+
 - 2014.03~2020.02 [Chosun University(Gwangju)](https://www.chosun.ac.kr)
   - Major in Computer Science
 
 ### 🌟 Work Experiences
+
 - Software Developer, [<i>GSTC of GIST</i>](https://www.gist.ac.kr/), Sep 2019 - Dec 2020
 
 ### 📝 Research Experiences
+
 - Master's course Students, [<i>Smart Computing Laboratory</i>](http://sclab.jnu.ac.kr/), Chonnam National Univ.
   - 운동자세교정을 위한 제스처 인식, 기업체 현업 프로젝트, Mar-May 2021.
 
 <!--
+
 ### 📚 International Conference
+
 - 
 
 ### 📚 Domestic Conference
+
 - 
 
 ### 🔮 Patent
+
 - 
 
 ### ✨ HONORS & AWARDS
 
 -->
+
+![Hyuntaek Lim's github stats](https://github-readme-stats.vercel.app/api?username=devLupin&show_icons=true&theme=tokyonight)
