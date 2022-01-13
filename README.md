@@ -23,6 +23,10 @@
   - 운동자세교정을 위한 제스처 인식, 기업체 현업 프로젝트, Mar-May 2021.
   - 연구실 출입 관리 시스템, 개인 프로젝트, June-Dec 2021.
 
+### 📚 Domestic Conference
+
+- Hyuntaek Lim(2022), Reserach trend for deep learning-based face recognition loss function. KCSE 2022
+
 <!--
 
 ### 📚 International Conference
