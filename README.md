@@ -15,7 +15,7 @@
 
 ### 🌟 Work Experiences
 
-- Software Developer, [<i>GSTC of GIST</i>](https://www.gist.ac.kr/), Sep 2019 - Dec 2020
+- Software Developer, [<i>GSTC of GIST</i>](http://gstc.or.kr/), Sep 2019 - Dec 2020
 
 ### 📝 Research Experiences
 
