@@ -25,7 +25,7 @@
 
 ### 📚 Domestic Conference
 
-- Hyuntaek Lim(2022), Research trend for deep learning-based face recognition loss function. <KCSE 2022>
+- Hyuntaek Lim, Tayoon Kim, Changseok Kim(2022), Research trend for deep learning-based face recognition loss function. <KCSE 2022>
 
 <!--
 
