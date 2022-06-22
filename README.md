@@ -5,7 +5,6 @@
 ### Hi  👋 I'm Hyuntaek Lim
 
 - 🌱 I’m currently learning Artificial Inteligence at [Chonnam National University(Gwangju)](https://www.jnu.ac.kr/).
-- 🔭 I’m currently working on [Ghostpass](http://www.ghostpass.ai) as a AI Research Engineer.
 - 📫 How to reach me : [BLOG](https://devhyeon.tistory.com/), E-mail : luckyquit49@gmail.com
 
 ### 🏛 Education
@@ -16,6 +15,7 @@
 ### 🌟 Work Experiences
 
 - Software Developer, [<i>GSTC of GIST</i>](http://gstc.or.kr/), Sep 2019 - Dec 2020
+- AI Research Engineer, [Ghostpass](http://www.ghostpass.ai), Mar 2021 - Jun 2022
 
 ### 📝 Research Experiences
 
