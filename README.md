@@ -25,7 +25,7 @@
 
 ### 📚 Domestic Conference
 
-- Hyuntaek Lim, Tayoon Kim, Changseok Kim(2022), Research trend for deep learning-based face recognition loss function. <KCSE 2022>
+- 임현택, 김태윤, 김창석. "딥러닝 기반 얼굴인식 손실 함수 기술 동향". 한국 소프트웨어공학 학술대회. 2022
 - 임현택, 양형정*. "상태 변화에 강인한 컨벡스헐 알고리즘 기반 얼굴 검출". 스마트미디어학회 종합학술대회. 2022
 
 <!--
