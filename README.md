@@ -16,6 +16,7 @@
 
 - Software Developer, [<i>GSTC of GIST</i>](http://gstc.or.kr/), Sep 2019 - Dec 2020
 - AI Research Engineer, [Ghostpass](http://www.ghostpass.ai), Mar 2021 - Jun 2022
+- AI Research Engineer, Veluga, Aug 2022 - 
 
 ### 📝 Research Experiences
 
