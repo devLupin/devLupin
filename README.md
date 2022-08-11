@@ -2,6 +2,8 @@
 
 ![Hyuntaek Lim's github stats](https://github-readme-stats.vercel.app/api?username=devLupin&show_icons=true&theme=tokyonight)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=<username>&show_icons=true&locale=en&layout=compact" alt="<devLupin>" /></p>
+
 ### Hi  👋 I'm Hyuntaek Lim
 
 - 🌱 I’m currently learning Artificial Inteligence at [Chonnam National University(Gwangju)](https://www.jnu.ac.kr/).
