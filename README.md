@@ -9,7 +9,7 @@
 ### Hi  👋 I'm Hyuntaek Lim
 
 - 🌱 I’m currently learning Artificial Inteligence at [Chonnam National University(Gwangju)](https://www.jnu.ac.kr/).
-- 📫 How to reach me : [BLOG](https://devhyeon.tistory.com/), E-mail : luckyquit49@gmail.com
+- 📫 How to reach me : [BLOG](https://devhyeon.tistory.com/), E-mail : lupin.devv@gmail.com
 
 ### 🏛 Education
 
@@ -20,13 +20,14 @@
 
 - Software Developer, [<i>GSTC of GIST</i>](http://gstc.or.kr/), Sep 2019 - Dec 2020
 - AI Research Engineer, [Ghostpass](http://www.ghostpass.ai), Mar 2021 - Jun 2022
-- AI Research Engineer, Veluga, Aug 2022 - 
+- AI Research Engineer, Veluga, Aug 2022 - Jan 2023
 
 ### 📝 Research Experiences
 
 - Master's course Students, [<i>Smart Computing Laboratory</i>](http://sclab.jnu.ac.kr/), Chonnam National Univ.
   - 운동자세교정을 위한 제스처 인식, 기업체 현업 프로젝트, Mar-May 2021.
-  - 얼굴 인식, 개인 프로젝트, June-Dec 2021.
+  - 얼굴 인식, 개인 프로젝트, Jun-Dec 2021.
+  - 음성감정인식, 개인 프로젝트, Jul 2022 - 
 
 ### 📚 Domestic Conference
 
