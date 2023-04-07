@@ -17,7 +17,7 @@
 ### 📫 How to reach me
 <hr>
 
-- [Email](lupin.devv@gmail.com)
+- Email : lupin.devv@gmail.com
 - [Blog](https://devlupin.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/hyuntaek-lim-0a460b20b/)
 
