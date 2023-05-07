@@ -17,7 +17,6 @@
 ### 👩‍💻 Career
 <hr>
 
-- [resume](https://drive.google.com/file/d/13yA8zhC3A9brC0NlEhQH_Z74NwBkT4MR/view?usp=sharing)
 - [portfolio](https://drive.google.com/file/d/1IgACclhT3N3pkKdWmzXcfi0lr7cHf80r/view?usp=sharing)
 - [project details](https://drive.google.com/file/d/1KBuuNRrdaNXpyi-xePlHKfX5XN8PFey0/view?usp=sharing)
 
