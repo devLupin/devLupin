@@ -17,9 +17,8 @@
 ### 👩‍💻 Career
 <hr>
 
-- [portfolio](https://drive.google.com/file/d/1IgACclhT3N3pkKdWmzXcfi0lr7cHf80r/view?usp=sharing)
+- [portfolio](https://drive.google.com/file/d/1kfHz-aOdQCkLkZYw00sTbHGwnPOXiqf1/view?usp=sharing)
 - [project details](https://drive.google.com/file/d/1ABqLm_M3CgJQQx4MoPQH1zqlkfLRwj9y/view?usp=sharing)
-
 
 <br/><br/>
 ![Lupin's github stats](https://github-readme-stats.vercel.app/api?username=devLupin&show_icons=true&theme=tokyonight)
