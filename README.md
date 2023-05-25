@@ -18,7 +18,7 @@
 <hr>
 
 - [portfolio](https://drive.google.com/file/d/1IgACclhT3N3pkKdWmzXcfi0lr7cHf80r/view?usp=sharing)
-- [project details](https://drive.google.com/file/d/1KBuuNRrdaNXpyi-xePlHKfX5XN8PFey0/view?usp=sharing)
+- [project details](https://drive.google.com/file/d/1ABqLm_M3CgJQQx4MoPQH1zqlkfLRwj9y/view?usp=sharing)
 
 
 <br/><br/>
