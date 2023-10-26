@@ -18,7 +18,8 @@
 
 ### 👩‍💻 Career
 <hr>
-- [project](https://drive.google.com/file/d/1ktGhb2NdbEOmCtN2hcurQt-nDbI1L8Ap/view?usp=drive_link)
+
+- [project details](https://drive.google.com/file/d/1ktGhb2NdbEOmCtN2hcurQt-nDbI1L8Ap/view?usp=drive_link)
 
 <br/><br/>
 ![Lupin's github stats](https://github-readme-stats.vercel.app/api?username=devLupin&show_icons=true&theme=tokyonight)
