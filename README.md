@@ -14,7 +14,6 @@
 
 - lupin.devv@gmail.com
 - [Algorithm Blog](https://devlupin.github.io/) | [Tech Blog](https://velog.io/@lupin)
-- [LinkedIn](https://www.linkedin.com/in/hyuntaek-lim-0a460b20b/)
 
 ### 👩‍💻 Career
 <hr>
