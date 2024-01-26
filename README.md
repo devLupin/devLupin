@@ -18,7 +18,7 @@
 ### 👩‍💻 Career
 <hr>
 
-- [project](https://drive.google.com/file/d/1Jlli-hL1JTeT5ydfpDU88XkevA6rDzO9/view?usp=sharing)
+- [project](https://drive.google.com/file/d/1XTW_EOb3f726yDm9dUtP4cMvFBAaZ1xV/view?usp=drive_link)
 
 <br/><br/>
 <!--
